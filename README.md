@@ -5,8 +5,8 @@ GCP Cloud Spending Analysis
 2. Marchelio Fahrul Rahmansyah (5027261027)
 3. Muhammad Affan Arsyad (5027261081)
 
-Topik Yang dipih: Cloud Computing
-Sumber data: https://www.kaggle.com/datasets/sairamn19/gcp-cloud-billing-data/data
+Topik Yang dipih: Cloud Computing                                                                                    
+Sumber data: https://www.kaggle.com/datasets/sairamn19/gcp-cloud-billing-data/data                                 
 Lisensi: https://cdla.io/sharing-1-0/
 
 3 Temuan Utama
